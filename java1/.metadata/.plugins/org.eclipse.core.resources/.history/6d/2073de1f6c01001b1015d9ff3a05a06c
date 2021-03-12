@@ -1,0 +1,17 @@
+import org.opentutorials.iot.Elevator;
+
+public class OKJavaGoInHome {
+
+	public static void main(String[] args) {
+		
+		// Elevator call
+		Elevator myElevator = new Elevator("Timo APT 404");
+		myElevator.callForUp(1);
+		
+		// Security off
+		
+		// Light on
+
+	}
+
+}

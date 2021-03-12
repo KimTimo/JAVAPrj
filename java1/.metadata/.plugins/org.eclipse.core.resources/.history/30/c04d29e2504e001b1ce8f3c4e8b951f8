@@ -1,0 +1,23 @@
+
+public class Avatar {
+
+	public static void main(String[] args) {
+		
+		double valueOfSupply = 10000.0;
+		System.out.println("Value Of Supply : "+ valueOfSupply);
+		double vatRate = 0.1;
+		double expenseRate = 0.3;
+		System.out.println("VAT : "+(valueOfSupply*vatRate));
+		System.out.println("Total : "+(valueOfSupply+(valueOfSupply*vatRate)));
+		System.out.println("Expense : "+(valueOfSupply*expenseRate ));
+		System.out.println("Income : "+(valueOfSupply-valueOfSupply*expenseRate));
+		System.out.println("Dividend1 : "+(valueOfSupply-valueOfSupply*expenseRate)*0.5);
+		System.out.println("Dividend2 : "+(valueOfSupply-valueOfSupply*expenseRate)*0.3);
+		System.out.println("Dividend3 : "+(valueOfSupply-valueOfSupply*expenseRate)*0.2);
+		
+		
+
+
+	}
+
+}

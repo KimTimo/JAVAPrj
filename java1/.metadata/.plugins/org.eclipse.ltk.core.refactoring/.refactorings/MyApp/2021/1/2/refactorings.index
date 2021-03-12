@@ -1,0 +1,14 @@
+1609739332578	Extract local variable 'valueOfSupply'
+1609739345960	Extract local variable 'vatRate'
+1609739417815	Extract local variable 'vat'
+1609739435099	Extract local variable 'total'
+1609739458885	Extract local variable 'expense'
+1609739502485	Extract local variable 'income'
+1609739532418	Extract local variable 'dividend1'
+1609739539549	Extract local variable 'dividend2'
+1609739546882	Extract local variable 'dividend3'
+1609742767282	Delete element
+1609742819982	Copy compilation unit
+1609743311569	Copy compilation unit
+1609744669109	Copy compilation unit
+1609747176637	Copy compilation unit
